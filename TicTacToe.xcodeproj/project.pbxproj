@@ -15,6 +15,7 @@
 		D132F602258C97BF008A90C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D132F600258C97BF008A90C2 /* LaunchScreen.storyboard */; };
 		D132F60D258C97BF008A90C2 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D132F60C258C97BF008A90C2 /* TicTacToeTests.swift */; };
 		D132F618258C97BF008A90C2 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D132F617258C97BF008A90C2 /* TicTacToeUITests.swift */; };
+		D1EC092325AF6AAD00402D76 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1EC092225AF6AAD00402D76 /* StartViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D132F613258C97BF008A90C2 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D132F617258C97BF008A90C2 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		D132F619258C97BF008A90C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1EC092225AF6AAD00402D76 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D132F5F5258C97AD008A90C2 /* AppDelegate.swift */,
 				D132F5F7258C97AD008A90C2 /* SceneDelegate.swift */,
 				D132F5F9258C97AD008A90C2 /* ViewController.swift */,
+				D1EC092225AF6AAD00402D76 /* StartViewController.swift */,
 				D132F5FB258C97AD008A90C2 /* Main.storyboard */,
 				D132F5FE258C97BF008A90C2 /* Assets.xcassets */,
 				D132F600258C97BF008A90C2 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D132F5FA258C97AD008A90C2 /* ViewController.swift in Sources */,
+				D1EC092325AF6AAD00402D76 /* StartViewController.swift in Sources */,
 				D132F5F6258C97AD008A90C2 /* AppDelegate.swift in Sources */,
 				D132F5F8258C97AD008A90C2 /* SceneDelegate.swift in Sources */,
 			);
